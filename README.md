@@ -36,8 +36,8 @@
 
 ### _My Repos_
  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victorluansilva&repo=victorluansilva.github.io
-  )](https://github.com/victorluansilva/victorluansilva.github.io
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victorluansilva&repo=victorluansilva
+  )](https://github.com/victorluansilva/victorluansilva
   )
  
 ##
