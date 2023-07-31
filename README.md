@@ -1,20 +1,25 @@
 # Hi I'm [Victor Silva](https://victorluansilva.com/) 🐱‍👤
-#### 🖥 Teacher at SENAI - São Gonçalo do Rio Abaixo 
+
+### 🖥 IT Teacher at SENAI - São Gonçalo do Rio Abaixo
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/victor-luan-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href = "mailto:victorluanslva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/victor-luan-silva/" target="_blank"><img src="src/images/logoLinkedIn.png" width="80px" height="20px" ></a>
+    <a href = "mailto:victorluanslva@gmail.com" target="_blank"><img src="src/images/logoGmail.png" width="80px" height="20px"></a>
 </div>
 
 ##
 
 <div align="center">
+  <a href="https://victorluansilva.com/">
+  <img width="450em" height="180em" src="src/images/webSiteMiniature.png"/>
+  </a>
   <a href="https://github.com/victorluansilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorluansilva&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorluansilva&layout=compact&langs_count=7&theme=midnight-purple"/>
+  </a>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorluansilva&layout=compact&langs_count=7&theme=midnight-purple"/> -->
 </div>
 
-<div align="center">  
+<!-- <div align="center">  
   <div style="display: inline_block">
   <img align="center" alt="Victor-CSharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
     <img align="center" alt="Victor-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
@@ -30,16 +35,15 @@
     <img align="center" alt="Victor-Unity" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
   <img align="center" alt="Victor-VS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   </div>
-</div>  
+</div>   -->
 
 ##
 
 ### _My Repos_
- 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victorluansilva&repo=victorluansilva
-  )](https://github.com/victorluansilva/victorluansilva
-  )
- 
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victorluansilva&repo=Livros)](https://github.com/victorluansilva/Livros)
+  
+
 ##
 
  ![Snake animation](https://github.com/victorluansilva/victorluansilva/blob/output/github-contribution-grid-snake.svg)
