@@ -10,7 +10,7 @@
 ##
 
 <div align="center">
-  <a href="https://victorluansilva.com/">
+  <a href="https://victorluansilva.com/" target="_blank">
   <img width="350em" height="180em" src="src/images/webSiteMiniature.png"/>
   </a>
   <a href="https://github.com/victorluansilva">
