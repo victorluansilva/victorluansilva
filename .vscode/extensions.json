@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "dracula-theme.theme-dracula",
+        "dbaeumer.vscode-eslint",
+        "mhutchie.git-graph",
+        "eamodio.gitlens",
+        "github.vscode-pull-request-github",
+        "pkief.material-icon-theme",
+        "christian-kohler.path-intellisense",
+        "esbenp.prettier-vscode",
+        "hirse.vscode-ungit"
+    ]
+}
