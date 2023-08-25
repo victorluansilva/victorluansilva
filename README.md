@@ -7,8 +7,12 @@
 ##
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/victor-luan-silva/" target="_blank"><img src="src/images/logoLinkedIn.png" width="80px" height="20px" /></a>
-    <a href = "mailto:victorluanslva@gmail.com" target="_blank"><img src="src/images/logoGmail.png" width="80px" height="20px" /></a>
+  <a href="https://www.linkedin.com/in/victor-luan-silva/" target="_blank">
+  <img src="src/images/logoLinkedIn.png" width="80px" height="20px" />
+  </a>
+    <a href = "mailto:victorluanslva@gmail.com" target="_blank">
+    <img src="src/images/logoGmail.png" width="80px" height="20px" />
+    </a>
 </div>
 
 ##
@@ -18,7 +22,7 @@
   <img width="350em" height="180em" src="src/images/webSiteMiniature.png"/>
   </a>
   <a href="https://github.com/victorluansilva" target="_blank">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorluansilva&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorluansilva&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
@@ -26,9 +30,9 @@
 
 ### _My Repos_
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victorluansilva&repo=victor-app-inventor-projects)](https://github.com/victorluansilva/victor-app-inventor-projects)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victorluansilva&repo=victor-app-inventor-projects&theme=transparent)](https://github.com/victorluansilva/victor-app-inventor-projects)
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victorluansilva&repo=Livros)](https://github.com/victorluansilva/Livros)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victorluansilva&repo=Livros&theme=transparent)](https://github.com/victorluansilva/Livros)
  
   
 ##
