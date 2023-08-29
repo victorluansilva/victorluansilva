@@ -6,15 +6,10 @@
 
 
 ##
-<!-- AQUI É A SESSÃO PARA LINKS SOCIAIS -->
-<div align="left">
-  <a href="https://www.linkedin.com/in/victor-luan-silva/" target="_blank">
-  <img src="src/images/logoLinkedIn.png" width="80px" height="20px" />
-  </a>
-    <a href = "mailto:victorluanslva@gmail.com" target="_blank">
-    <img src="src/images/logoGmail.png" width="80px" height="20px" />
-    </a>
-</div>
+
+[![Linkedin: victor-luan-silva](https://img.shields.io/badge/-Victor%20Silva-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-luan-silva/)](https://www.linkedin.com/in/victor-luan-silva/)
+[![GitHub Victor](https://img.shields.io/github/followers/victorluansilva?label=follow&style=social)](https://github.com/victorluansilva)
+[![Gmail Victor](https://img.shields.io/badge/Gmail-black?style=flat-square&logo=gmail&logoColor=white&link=mailto:victorluansilva@gmail.com)](mailto:victorluansilva@gmail.com)
 
 ##
 
