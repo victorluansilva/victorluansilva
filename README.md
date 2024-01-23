@@ -1,6 +1,6 @@
 # Hi I'm [Victor Silva](https://victorluansilva.com/) 🐱‍👤 [![GitHub Victor](https://img.shields.io/github/followers/victorluansilva?label=follows&style=social)](https://github.com/victorluansilva)
 
-#### :arrow_forward:  IT Teacher at [SENAI](https://www.fiemg.com.br/senai/unidades/senai-sao-goncalo-do-rio-abaixo-cfp-jose-fernando-coura/) and [EI School](https://www.google.com/search?q=escola+integral+maria+de+lourdes+duarte+moreira+dos+santos+s%C3%A3o+gon%C3%A7alo+do+rio+abaixo&rlz=1C1GCEU_pt-BRBR1053BR1053&oq=escola+integral+maria+de+lourdes+duarte+moreira+dos+santos+s&gs_lcrp=EgZjaHJvbWUqBwgBECEYoAEyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCTEzODU1ajBqNKgCALACAA&sourceid=chrome&ie=UTF-8#:~:text=See%20outside-,Escola%20Integral,-Directions) :man_teacher: 
+#### :arrow_forward:  IT Teacher at [SENAI](https://www.fiemg.com.br/senai/unidades/senai-sao-goncalo-do-rio-abaixo-cfp-jose-fernando-coura/) :man_teacher: 
 
 #### :arrow_forward: Living at **São Gonçalo do Rio Abaixo - MG** :city_sunrise:
 
