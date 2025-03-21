@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Victor Silva](https://victorluansilva.com/) 🐱‍👤
+# 👋 Hi, I'm [Victor](https://victorluansilva.com/) 🐱‍👤
 
 [![GitHub Victor](https://img.shields.io/github/followers/victorluansilva?label=follows&style=social)](https://github.com/victorluansilva)
 
