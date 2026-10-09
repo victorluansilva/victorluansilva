@@ -33,12 +33,6 @@ I'm an **IT Teacher** at [SENAI](https://www.fiemg.com.br/senai/unidades/senai-s
 
 ---
 
-## 📌 Featured Projects
-🔹 [Victor App Inventor Projects](https://github.com/victorluansilva/victor-app-inventor-projects) - Projects developed with App Inventor.  
-🔹 [Livros](https://github.com/victorluansilva/Livros) - Repository with useful materials and books for learning.  
-
----
-
 ## 📬 Contact
 [![LinkedIn](https://img.shields.io/badge/-Victor%20Silva-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-luan-silva/)](https://www.linkedin.com/in/victor-luan-silva/)  
 [![Gmail](https://img.shields.io/badge/Gmail-black?style=flat-square&logo=gmail&logoColor=white&link=mailto:victorluansilva@gmail.com)](mailto:victorluansilva@gmail.com)  
@@ -47,9 +41,6 @@ I'm an **IT Teacher** at [SENAI](https://www.fiemg.com.br/senai/unidades/senai-s
 
 ## 📊 Stats
 <div align="center">
-  <a href="https://victorluansilva.com/" target="_blank">
-    <img width="350em" height="180em" src="src/images/webSiteMiniature.png"/>
-  </a>
   <a href="https://github.com/victorluansilva" target="_blank">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorluansilva&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   </a>
